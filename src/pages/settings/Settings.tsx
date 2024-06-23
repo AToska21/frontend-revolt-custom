@@ -281,7 +281,7 @@ export default observer(() => {
                         </ButtonItem>
                     </a>
                     <a
-                        href="https://insrt.uk/donate"
+                        href="https://perditum.com/donate"
                         target="_blank"
                         rel="noreferrer">
                         <ButtonItem className={styles.donate} compact>
